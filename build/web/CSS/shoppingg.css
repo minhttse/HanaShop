@@ -1,0 +1,80 @@
+body{
+    background-color: #6BC4B2;
+}
+a{
+    float: right;
+    margin-right: 150px;
+}
+h1{
+    margin-left: 35%;
+    float: left;
+}
+
+.main-layout {
+    margin-left: 40%;
+    width: 70%;
+}
+
+.main-layout .name{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 16px;
+}
+.main-layout .price{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 14px;
+}
+.main-layout .category{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 9px;
+}
+
+.main-layout .search{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 70px;
+}
+.main-layout .view{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+h3{
+    margin-left: 40%;
+    
+}
+.food-layout{
+    width: 360px;
+    height: 530px;
+    border: 1px solid;
+    float: left;
+    margin-left: 62px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+.food-layout h5{
+    margin-left: 20%;
+}
+.food-layout .add{
+    margin-left: 42%;
+}
+.food-layout img{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.food-layout div{
+    margin-bottom: 100px;
+}
+.page-item{
+    margin-right: 1px;
+}
+.page-link{
+    margin-right: 1px;
+}
+

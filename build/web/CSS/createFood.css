@@ -1,0 +1,83 @@
+body{
+    background-color: #6BC4B2;
+}
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+h2{
+    float: left;
+    margin-top: 0px;
+}
+div{
+    width: 600px;
+    height: 500px;
+    margin-left: 20%;
+    border: 1px solid;
+    float: left;
+}
+h1{
+    margin-left: 29%;
+}
+.main-layout{
+    margin-left: 20%;
+}
+.main-layout .id{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 18px;
+}
+.main-layout .name{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 13px;
+}
+.main-layout .price{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.main-layout .quantity{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.main-layout .description{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 3px;
+}
+.main-layout .expirationdate{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 3px;
+}
+.main-layout .img{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 53px;
+}
+.main-layout .typeFood{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.main-layout .create{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 45px;
+}
+.main-layout .reset{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: #6BC4B2;
+}
+.create{
+    float: right;
+    margin-right: 150px;
+}
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+
+h1{
+    margin-left: 560px;
+}
+.delete .input{
+    margin-left: 35%;
+}
+.main-layout{
+    margin-left: 35%;
+}
+h3{
+    margin-left: 35%;
+}
+table{
+    margin-left: 2%;
+}

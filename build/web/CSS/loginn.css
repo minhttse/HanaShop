@@ -1,0 +1,48 @@
+h1{
+    margin-left: 42%;
+}
+body{
+    background-color: #6BC4B2;
+}
+.main-layout{
+    margin-left: 20%;
+}
+.main-layout .ID{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.main-layout .password{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 8px;
+}
+.main-layout .login{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 45px;
+}
+.main-layout .reset{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.shopping{
+    margin-left: 35%;
+}
+.main-div{
+    width: 450px;
+    height: 330px;
+    margin-left: 35%;
+    border: 1px solid;
+}
+h5{
+    margin-left: 29%;
+}
+.g-signin2{
+   margin-left: 150px;
+}
