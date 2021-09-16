@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T14:28:47.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="jQzHewDHpTSqgg8hZ0NY" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T14:39:04.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ii2DOKwZbSGd_X_uDmhu" version="15.2.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="65" y="220" width="10" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="0GrsT5j0lHC2JYDFpa-r-11" value="alt Add service" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=30;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+        <mxCell id="0GrsT5j0lHC2JYDFpa-r-11" value="&lt;b&gt;alt&lt;/b&gt; Add service" style="shape=umlFrame;whiteSpace=wrap;html=1;width=95;height=30;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="-285" y="230" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="2: Request create service" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
@@ -157,6 +157,9 @@
             <mxPoint x="75" y="620" as="sourcePoint" />
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8wqBt8BUKFswIuifHX2i-1" value="&lt;b&gt;interaction&lt;/b&gt; Add service" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=40;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="50" width="1060" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
