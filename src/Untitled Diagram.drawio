@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T14:39:06.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="5AbmdlPR_VocBelJ7zeo" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T00:00:44.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yAqThmTUI4v7_B4LyQpj" version="15.2.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1907" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,10 +61,10 @@
           <mxGeometry x="60" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0GrsT5j0lHC2JYDFpa-r-12" value=":Salon service Responsibility" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="130" width="150" height="400" as="geometry" />
+          <mxGeometry x="590" y="130" width="170" height="410" as="geometry" />
         </mxCell>
         <mxCell id="0GrsT5j0lHC2JYDFpa-r-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="0GrsT5j0lHC2JYDFpa-r-12" vertex="1">
-          <mxGeometry x="70" y="220" width="10" height="160" as="geometry" />
+          <mxGeometry x="80" y="230" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0GrsT5j0lHC2JYDFpa-r-15" value="7:Return result" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -72,11 +72,11 @@
             <mxPoint x="670" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0GrsT5j0lHC2JYDFpa-r-16" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="130" width="150" height="380" as="geometry" />
+        <mxCell id="0GrsT5j0lHC2JYDFpa-r-16" value=":Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="130" width="150" height="400" as="geometry" />
         </mxCell>
         <mxCell id="0GrsT5j0lHC2JYDFpa-r-17" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="0GrsT5j0lHC2JYDFpa-r-16" vertex="1">
-          <mxGeometry x="70" y="220" width="10" height="150" as="geometry" />
+          <mxGeometry x="70" y="235" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0GrsT5j0lHC2JYDFpa-r-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0GrsT5j0lHC2JYDFpa-r-16" vertex="1">
           <mxGeometry x="75" y="290" width="10" height="40" as="geometry" />
@@ -158,8 +158,8 @@
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8wqBt8BUKFswIuifHX2i-1" value="&lt;b&gt;interaction&lt;/b&gt; Add service" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=40;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="50" width="1060" height="610" as="geometry" />
+        <mxCell id="8wqBt8BUKFswIuifHX2i-1" value="&lt;b&gt;interaction&lt;/b&gt; Add service" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=40;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="40" width="1060" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
